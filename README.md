@@ -1,4 +1,4 @@
-# Fut.info
+# Fut.info V0.5
 A simple app made in python, using flet framework.
 
 
